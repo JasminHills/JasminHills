@@ -14,6 +14,9 @@ Featured Projects:
   **Wavefront_Extraction_PIL:**
 Trained Unet model to reconstruct wavefront abberations from focal spot images for a known geometry. Propagation dynamics were incorporated in the loss function through the introduction of a PyTorch laser propagation module (based on the lasy angular spectrum propagator). 
 
+  **Higgs_Statistical_Significance:**
+Numerical Methods and Higgs Signal Optimisation: Using numerical integration to find optimal cuts to make in data to maximise statistical significance of higg boson detection
+  
   **Ray_Tracing_Project:**
 Ray Tracing models light ray propagation through a variety of optical elements: Spherical lens, mirrors etc. Includes GUI/Non-GUI versions.
  
